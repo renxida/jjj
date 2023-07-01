@@ -1,5 +1,4 @@
 # JJJ - Your Personal Journaling App
-(JJJ Jots Journals)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20|%20macOS%20|%20Linux-green)
@@ -12,7 +11,7 @@ JJJ is a simple, yet powerful, personal journaling application that allows you t
 - **Timestamps**: Each entry is automatically timestamped, so you can easily see when you wrote something.
 - **Sound Effects**: Get auditory feedback with each keystroke and when your work is saved.
 - **Cross-Platform**: Works on Windows, macOS, and Linux.
-- **Saves in Dropbox"": By default, it finds your Dropbox folder and appends your journals to `journal.txt`
+- **Saves in Dropbox**: By default, it finds your Dropbox folder and appends your journals to `journal.txt`
 
 ## Installation
 
@@ -53,3 +52,7 @@ Happy journaling!
 ---
 
 *Please note: This application is a work in progress and may have bugs. Always back up your data and use this application at your own risk.*
+
+## Name
+
+JJJ stands for JJJ Jots Journal
